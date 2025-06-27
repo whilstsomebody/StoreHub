@@ -157,35 +157,3 @@ Your contributions make StoreHUB better! 🔥
 
 StoreHUB is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 
----
-
-## 🌟 Our Contributors
-
-<div align="center">
-
-[![Contributors](https://contrib.rocks/image?repo=rishyym0927/StoreHUB)](https://github.com/rishyym0927/StoreHUB/graphs/contributors)
-
-</div>
-
----
-
-## 📞 Support
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@storehub.dev)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/storehub)
-
-</div>
-
----
-
-<div align="center">
-
-Made with ❤️ by the **StoreHUB Team**
-
-[⬆ Back to top](#-storehub)
-
-</div>
-
